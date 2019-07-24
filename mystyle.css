@@ -1,0 +1,47 @@
+h1{
+  color: tomato;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 60px;
+  font-family: 'Signika', sans-serif;
+  background-color: lightGray;
+}
+html{
+  background-image: url("colors.jpg");
+}
+p{
+  font-size:25px;
+  text-align: center;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  background-color: lightGray;
+ margin-right: 10px;
+ margin-left: 10px;
+
+}
+
+div{
+  background-image: url("argentina.png");
+  font-size: 28px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  background-color: lightGray;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+div{
+  background-image: url("brazil.jpeg");
+  font-size: 28px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  background-color: lightGray;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+ul{
+  font-size: 20px;
+  font-family: 'Darker Grotesque', sans-serif;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+
+
